@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "detects support for rendering PDF in browser",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "browserify": "^5.10.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
