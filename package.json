@@ -1,6 +1,6 @@
 {
   "name": "browser-pdf-support",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "detects support for rendering PDF in browser",
   "main": "index.js",
   "dependencies": {
