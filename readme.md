@@ -11,3 +11,6 @@ The module is expected to be used with [the amazing browserify](https://github.c
     } else {
       console.log('oh dear, you'll need to download acrobat or a real browser...');
     }
+
+## We're Hiring!
+Featurist provides full stack, feature driven development teams. Want to join us? Check out [our career opportunities](https://www.featurist.co.uk/careers/).
